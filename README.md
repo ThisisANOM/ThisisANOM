@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://instagram.com/thisisanom"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/ANOMsLibrary"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:thisisanom@proton.me"><img src="https://img.shields.io/badge/Email-thisisanom%40proton.me-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
+  <a href="mailto:anom0069@gmail.com"><img src="https://img.shields.io/badge/Email-anom0069%40gmail.com-8B89CC?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
