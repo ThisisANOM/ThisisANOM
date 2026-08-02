@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | AI Enthusiast | Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+%26+Computer+Vision+Enthusiast;Blockchain+%26+Network+Explorer;2x+Registered+Inventor+in+AI;Founder+%40+Vandad+Tejarat;توسعه‌دهنده+بک‌اند+و+علاقه‌مند+به+هوش+مصنوعی&center=true&width=650&color=00C7B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+%26+Computer+Vision+Enthusiast;Blockchain+%26+Network+Explorer;2x+Registered+Inventor+in+AI;Founder+%40+Vandad+Tejarat&center=true&width=650&color=00C7B7" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,56 +11,52 @@
   <a href="mailto:anom0069@gmail.com"><img src="https://img.shields.io/badge/Email-anom0069%40gmail.com-8B89CC?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  🇮🇷 <a href="./README.fa.md"><b>نسخه فارسی این پروفایل را اینجا بخوانید</b></a>
+</p>
+
 ---
 
-## 🧑‍💻 درباره من | About Me
+## 🧑‍💻 About Me
 
-**فارسی:**
-من محمد ابراهیمی هستم، توسعه‌دهنده‌ی بک‌اند با علاقه‌ی خاص به هوش مصنوعی، بینایی ماشین (Computer Vision)، بلاک‌چین و امنیت شبکه. تا امروز **۲ اختراع ثبت‌شده در حوزه‌ی هوش مصنوعی** دارم و در کنار توسعه‌ی نرم‌افزار، به تست نفوذ (Pentesting) و لینوکس هم علاقه‌مندم. هدف من از این پروفایل، بیشتر معرفی مسیر و پروژه‌هایی‌ست که در طول این سال‌ها ساخته‌ام.
-
-**English:**
 I'm Mohammad Ebrahimi, a backend developer with a strong interest in Artificial Intelligence, Computer Vision, Blockchain, and Network Security. I hold **2 registered patents in the field of AI**, and alongside software development, I'm passionate about Pentesting and Linux systems. This profile is mainly meant to showcase my journey and the projects I've built along the way.
 
 ---
 
-## 🚀 مسیر حرفه‌ای | Journey
+## 🚀 Journey
 
-| بازه سنی / Age | فعالیت / Role |
+| Age | Role |
 |---|---|
-| 🔹 16 - 18 | همکاری با استارتاپ **رمزینه پلاس** / Collaborated with **Ramzine Plus** startup |
-| 🔹 18 - 20 | فعالیت در **وندا تجارت** / Worked at **Vandad Tejarat** |
-| 🔹 20+ | تأسیس **آریا توسعه هوشمند کبیر** / Founded **Aria Tose'e Hoshmand Kabir** |
+| 🔹 16 - 18 | Collaborated with **Ramzine Plus** startup |
+| 🔹 18 - 20 | Worked at **Vandad Tejarat** |
+| 🔹 20+ | Founded **Aria Tose'e Hoshmand Kabir** |
 
 ---
 
-## 🏢 استارتاپ من | My Startup
+## 🏢 My Startup
 
-### آریا توسعه هوشمند کبیر | Aria Tose'e Hoshmand Kabir
+### Aria Tose'e Hoshmand Kabir
 
-بنیان‌گذار هلدینگی هستم که در ۲۰ سالگی راه‌اندازی کردم و شامل **۳ زیرمجموعه** است:
+Founder of a holding company established at the age of 20, consisting of **3 subsidiaries**:
 
-| زیرمجموعه / Subsidiary | حوزه / Field | توضیح / Description |
+| Subsidiary | Field | Description |
 |---|---|---|
-| 🧭 **کوچ (Kooch)** | هوش مصنوعی | سیستم‌عامل مدیریت سفر مبتنی بر هوش مصنوعی / AI-powered travel-management operating system |
-| 🚁 **سیمرغ (Simorgh)** | هوش مصنوعی | ساخت کوادکوپترهای مجهز به سیستم هدایت خودکار (Autonomous Navigation) / Quadcopters equipped with autonomous guidance systems |
-| 💳 **آوین‌پی (AvinPay)** | فین‌تک | تأمین مالی افراد، شرکت‌ها و فروشگاه‌ها؛ ارائه‌ی اعتبار خرید و تسهیلات / Financing solutions for individuals, companies, and stores — offering purchase credit and financial facilities |
-
-Founder of a holding company established at the age of 20, consisting of **3 subsidiaries**: two focused on AI solutions and one on FinTech.
+| 🧭 **Kooch** | Artificial Intelligence | AI-powered travel-management operating system |
+| 🚁 **Simorgh** | Artificial Intelligence | Quadcopters equipped with autonomous guidance systems |
+| 💳 **AvinPay** | FinTech | Financing solutions for individuals, companies, and stores — offering purchase credit and financial facilities |
 
 ---
 
-## 🏆 دستاورد‌های علمی | Achievements
+## 🏆 Achievements
 
-- 💡 **۲ اختراع ثبت‌شده** در حوزه‌ی هوش مصنوعی | **2 Registered Patents** in Artificial Intelligence
-- 🥇 جزو **۵ نفر برگزیده استان خوزستان** توسط معاونت علمی و فناوری ریاست‌جمهوری
-  Selected among **Top 5 in Khuzestan Province** by the Vice Presidency for Science and Technology
-- 🎓 شرکت و کسب رتبه در جشنواره‌های علمی: **خوارزمی، فردا، اینوتکس، جنیکس**
-  Ranked participant in national science festivals: **Khwarizmi, Farda, Inotex, Genex**
-- 🎓 عضو **بنیاد ملی نخبگان** | Member of the **National Elites Foundation**
+- 💡 **2 Registered Patents** in Artificial Intelligence
+- 🥇 Selected among **Top 5 in Khuzestan Province** by the Vice Presidency for Science and Technology
+- 🎓 Ranked participant in national science festivals: **Khwarizmi, Farda, Inotex, Genex**
+- 🎓 Member of the **National Elites Foundation**
 
 ---
 
-## 🛠️ تخصص‌ها و تکنولوژی‌ها | Skills & Tech Stack
+## 🛠️ Skills & Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -76,19 +72,18 @@ Founder of a holding company established at the age of 20, consisting of **3 sub
   <img src="https://img.shields.io/badge/Pentesting-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
-**حوزه‌های مورد علاقه | Areas of Interest:**
-🧠 هوش مصنوعی و بینایی ماشین (AI & Computer Vision) · ⛓️ بلاک‌چین و شبکه‌های غیرمتمرکز (Blockchain & Decentralized Networks) · 🌐 شبکه (Networking) · 🐧 لینوکس (Linux) · 🛡️ تست نفوذ (Pentesting)
+**Areas of Interest:** 🧠 AI & Computer Vision · ⛓️ Blockchain & Decentralized Networks · 🌐 Networking · 🐧 Linux · 🛡️ Pentesting
 
 ---
 
-## 📌 پروژه‌های منتخب | Pinned Projects
+## 📌 Pinned Projects
 
-| پروژه / Project | توضیح / Description |
+| Project | Description |
 |---|---|
-| 🔵 [**Bluetooth-Jammer**](https://github.com/ThisisANOM/Bluetooth-Jammer) | اسکریپت پایتون برای تست‌های امنیتی بلوتوث (اهداف پنتست) |
-| 📱 [**Naengi**](https://github.com/ThisisANOM/Naengi) | ابزار پایتون برای تست ارسال SMS/تماس (اهداف پنتست) |
-| 🛒 [**WooSync**](https://github.com/ThisisANOM/WooSync) | تولکیت سبک پایتون برای همگام‌سازی فروشگاه‌های WooCommerce |
-| 🌉 [**NexGram**](https://github.com/ThisisANOM/NexGram) | پلتفرم اتوماسیون هوشمند شبکه‌های اجتماعی؛ پل ارتباطی بین اینستاگرام و تلگرام برای انتقال خودکار محتوا (پایتون، Aiogram، SQLAlchemy) |
+| 🔵 [**Bluetooth-Jammer**](https://github.com/ThisisANOM/Bluetooth-Jammer) | Python script for Bluetooth security testing (pentest purposes) |
+| 📱 [**Naengi**](https://github.com/ThisisANOM/Naengi) | Python tool for SMS/call testing (pentest purposes) |
+| 🛒 [**WooSync**](https://github.com/ThisisANOM/WooSync) | Lightweight Python toolkit for synchronizing WooCommerce stores |
+| 🌉 [**NexGram**](https://github.com/ThisisANOM/NexGram) | Smart social media automation platform bridging Instagram and Telegram for automatic content delivery (Python, Aiogram, SQLAlchemy) |
 
 ---
 
@@ -105,7 +100,7 @@ Founder of a holding company established at the age of 20, consisting of **3 sub
 
 ---
 
-## 📫 ارتباط با من | Contact Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://instagram.com/thisisanom">Instagram</a> ·
@@ -113,4 +108,4 @@ Founder of a holding company established at the age of 20, consisting of **3 sub
   <a href="mailto:anom0069@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>💞️ در حال حاضر به دنبال همکاری روی پروژه‌ی Vira هستم | Currently looking to collaborate on Vira</i></p>
+<p align="center"><i>💞️ Currently looking to collaborate on Vira</i></p>
